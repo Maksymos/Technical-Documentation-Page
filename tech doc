@@ -1,0 +1,92 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+  <title>Technical Documentation Page</title>
+</head>
+	<nav>
+	<header>Investing</header>
+		<ul>
+			<li>
+				<a class="nav-link" href="#Investing">INVESTING</a>
+			</li>
+			<li>
+				<a class="nav-link" href="how to invest with confidence">HOW TO INVEST WITH CONFIDENCE</a>
+			</li>
+			<li>
+				<a class="nav-link" href="investing essentials">INVESTING ESSENTIALS</a>
+			</li>
+			<li>
+				<a class="nav-link" href="portfolio management">PORTFOLIO MANAGEMENT</a>
+			</li>
+			<li>
+				<a class="nav-link" href="financial technology & automated investing">FINANCIAL TECHNOLOGY & AUTOMATED INVESTING</a>
+			</li>
+			<li>
+				<a class="nav-link" href="fundamental analysis">FUNDAMENTAL ANALYSIS</a>
+			</li>
+			<li>
+				<a class="nav-link" href="alternative investments">ALTERNATIVE INVESTMENTS</a>
+			</li>
+		</ul>
+	</nav>
+<body>
+	<main id="main-doc">
+		<section class="main-section" id="Investing">
+			<header>Investing</header>
+			<p>Investing differs from trading in that investing is for the long-term, usually years or decades. Investing is one of the key strategies to building long-term wealth and financial security.</p>
+		</section>
+		<section class="main-section" id="how to invest with confidence">
+			<header>How to invest with confidence</header>
+			<p>The investment landscape can be extremely dynamic and ever-evolving. But those who take the time to understand the basic principles and the different asset classes stand to gain significantly over the long haul. The first step: learning to distinguish different types of investments and what rung each occupies on the "risk ladder."</p>
+			<p>KEY TAKEAWAYS</p>
+			<ul>
+				<li>
+					Investing can be a daunting prospect for beginners, with an enormous variety of possible assets to add to a portfolio.
+				</li>
+				<li>
+					The investment 'risk ladder' identifies asset classes based on their relative riskiness, with cash being the most stable and alternative investments often being the most volatile.
+				</li>
+				<li>
+					Sticking with index funds or exchange-traded funds that mirror the market is often the best path for a new investor.
+				</li>
+			</ul>
+			<h4>Understanding the Investment 'Risk Ladder'</h4>
+				<p>
+					Here are the major asset classes, in ascending order of risk, on the investment risk ladder.
+				</p>
+			<h4>Cash</h4>
+				<p>
+					A cash bank deposit is the simplest, most easily understandable investment asset—and the safest. Not only does it give investors precise knowledge of the interest they'll earn, but it also guarantees they'll get their capital back. On the downside, the interest earned from cash socked away in a savings account seldom beats inflation. Certificates of Deposit (CDs) are highly liquid instruments, very similar to cash that are instruments that typically provide higher interest rates than those in savings accounts. However, money is locked up for a period of time and there are potential early withdrawal penalties involved.
+				</p>
+			<h4>Bonds</h4>
+				<p>
+					A bond is a debt instrument representing a loan made by an investor to a borrower. A typical bond will involve either a corporation or a government agency, where the borrower will issue a fixed interest rate to the lender in exchange for using their capital. Bonds are commonplace in organizations that use them in order to finance operations, purchases, or other projects.
+					<br>
+					Bond rates are essentially determined by the interest rates. Due to this, they are heavily traded during periods of quantitative easing or when the Federal Reserve—or other central banks—raise interest rates.
+				</p>
+			<h4>Stocks</h4>
+				<p>
+					Shares of stock let investors participate in the company’s success via increases in the stock’s price and through dividends. Shareholders have a claim on the company’s assets in the event of liquidation (that is, the company going bankrupt) but do not own the assets. Holders of common stock enjoy voting rights at shareholders’ meetings. Holders of preferred stock don’t have voting rights but do receive preference over common shareholders in terms of the dividend payments.
+				</p>
+			<h4>Mutual Funds</h4>
+				<p>
+					A mutual fund is a type of investment where more than one investor pools their money together in order to purchase securities. Mutual funds are not necessarily passive, as they are managed by portfolio managers who allocate and distribute the pooled investment into stocks, bonds, and other securities. Individuals may invest in mutual funds for as little as $1,000/share, letting them diversify into as many as 100 different stocks contained within a given portfolio.
+					<br>
+					Mutual funds are sometimes designed to mimic underlying indexes such as the S&P 500 or DOW Industrial Index. There are also many mutual funds that are actively managed, meaning they are updated by portfolio managers who carefully track and adjust their allocations within the fund. However, these funds generally have greater costs—such as yearly management fees and front-end charges—which can cut into an investor's returns.
+					<br>
+					Mutual funds are valued at the end of the trading day, and all buy and sell transactions are likewise executed after the market closes.
+				</p>
+			<h4>Exchange-Traded Funds (ETFs)</h4>
+				<p>
+					Exchange-traded funds (ETFs) have become quite popular since their introduction back in the mid-1990s. ETFs are similar to mutual funds, but they trade throughout the day, on a stock exchange. In this way, they mirror the buy-and-sell behavior of stocks. This also means their value can change drastically during the course of a trading day.
+					<br>
+					ETFs can track an underlying index such as the S&P 500 or any other "basket" of stocks the issuer of the ETF wants to underline a specific ETF with. This can include anything from emerging markets, commodities, individual business sectors such as biotechnology or agriculture, and more. Due to the ease of trading and broad coverage, ETFs are extremely popular with investors.
+				</p>
+		</section>
+		<section class="main-section" id="Investing Essentials">
+			<header>Investing Essentials</header>
+			<p>Investing requires saving money to invest, then developing a diversified portfolio. Portfolios need to be adjusted periodically based on life changes, but the focus should remain on the long term.</p>
+		</section>
+	</main>
+</body>
+</html>
